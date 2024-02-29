@@ -1,0 +1,15 @@
+(cl:defpackage my_robot_msgs-srv
+  (:use )
+  (:export
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+   "FIBONACCI"
+   "<FIBONACCI-REQUEST>"
+   "FIBONACCI-REQUEST"
+   "<FIBONACCI-RESPONSE>"
+   "FIBONACCI-RESPONSE"
+  ))
+
